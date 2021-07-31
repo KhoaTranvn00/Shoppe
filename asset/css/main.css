@@ -107,6 +107,7 @@
 
 .down__app-img {
     width: 40%;
+    cursor: pointer;
 }
 
 .header-notify {
@@ -296,6 +297,7 @@
     display: flex;
     align-items: center;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .header-logo__img {
@@ -437,11 +439,13 @@
     display: flex;
     justify-content: center;
     position: relative;
+
 }
 
 .header-cart__wrap {
     position: relative;
     margin: 10px 17px;
+    cursor: pointer;
 }
 
 .header-cart__icon {
